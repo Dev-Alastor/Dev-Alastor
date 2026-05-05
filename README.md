@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 
 ```
-Python • Linux • Networking Basics
+Python • Linux • Networking/Security Basics
 ```
 
 ## 💻 Environment
