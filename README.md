@@ -38,12 +38,11 @@ Editor   : VSCodium / VSCode
 
 ## 📊 GitHub Stats
 
-```
-[ 🎯 Focusing ]
-```
+* 🎯 Focusing
 
 ## 🧩 Languages
 
-```
-[ Python For Now... ]
-```
+* Python
+* Soon......
+* Soon......
+
