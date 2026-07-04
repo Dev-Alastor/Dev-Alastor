@@ -20,8 +20,8 @@ Python • Linux • Networking/Security Basics
 
 ```
 OS       : Arch Linux / CachyOS
-WM       : Hyprland
-Editor   : VSCodium
+WM       : Hyperland / KdePlasma
+Editor   : VSCodium / VSCode
 ```
 
 ## 📚 Learning Sources
@@ -38,8 +38,12 @@ Editor   : VSCodium
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Dev-Alastor\&show_icons=true\&theme=tokyonight)
+```
+[ 🎯 Focusing ]
+```
 
 ## 🧩 Languages
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alastor\&layout=compact\&theme=tokyonight)
+```
+[ Python For Now... ]
+```
