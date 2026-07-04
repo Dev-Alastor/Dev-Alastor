@@ -35,14 +35,3 @@ Editor   : VSCodium / VSCode
 ```
 [ ... coming soon ]
 ```
-
-## 📊 GitHub Stats
-
-* 🎯 Focusing
-
-## 🧩 Languages
-
-* Python
-* Soon......
-* Soon......
-
